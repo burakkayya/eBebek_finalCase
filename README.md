@@ -5,7 +5,6 @@ Project is created with Java-Spring Boot
 
 [Project Introduction Video](https://www.loom.com/share/1e92026f07f343ee92c40fa5c1f3745a)
 
-![Ekran görüntüsü 2022-11-20 232003](https://user-images.githubusercontent.com/56073855/202924844-9ed1da40-4fd6-44fd-84d3-7abfacda2de0.png)
 ![Ekran görüntüsü 2022-11-20 232258](https://user-images.githubusercontent.com/56073855/202924818-b9365cb7-4daf-4814-9900-423470e132ec.png)
 ![Ekran görüntüsü 2022-11-20 232323](https://user-images.githubusercontent.com/56073855/202924827-60a4c788-9655-4584-b16a-34df358b0ff1.png)
 
@@ -18,6 +17,8 @@ Project is created with Java-Spring Boot
 ![Ekran görüntüsü 2022-11-20 232550](https://user-images.githubusercontent.com/56073855/202924853-4dc99c7d-ecb9-422d-a259-2dfe73195093.png)
 
 ![Ekran görüntüsü 2022-11-20 232613](https://user-images.githubusercontent.com/56073855/202924856-952daef0-373d-4960-8c74-aeb9104d1e46.png)
+
+![Ekran görüntüsü 2022-11-20 232003](https://user-images.githubusercontent.com/56073855/202924844-9ed1da40-4fd6-44fd-84d3-7abfacda2de0.png)
 
 
 
